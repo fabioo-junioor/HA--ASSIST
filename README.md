@@ -19,7 +19,7 @@ Este é um projeto que desenvolvi chamado Ha Assist, é um software desktop que 
 * Electron
   
 # Autor
-#### Fábio Júnior
+#### Fábio Júnior, Eduardo Santos de Paula, Lucas Ziquinatti Piccini Nunes e Winglisson Maretoli Gonçalves
 #### Email: fcjunior@inf.ufsm.br
 #### Portfólio: https://fabiojuniordev.netlify.app/
 
